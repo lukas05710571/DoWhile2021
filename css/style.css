@@ -46,6 +46,7 @@ a:hover {
   display: flex;
   list-style: none;
   gap: 0.5rem;
+    background-color:#3D3C42;
 }
 
 #menu a {
